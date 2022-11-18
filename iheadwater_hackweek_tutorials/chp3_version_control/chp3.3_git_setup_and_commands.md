@@ -170,7 +170,7 @@ git remote add upstream git@github.com:iHeadWater/iheadwater_hackweek_tutorials.
 然后再次查看远程状态，已经可以看到upstream的信息了。
 
 随后从上游仓库 fetch 分支：
-
+ 
 ```Python
 git fetch upstream
 ```
